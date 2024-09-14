@@ -7,7 +7,7 @@ Acredito na comunicação clara e na escuta ativa para construir relacionamentos
 Tenho um compromisso inabalável com a qualidade em tudo que faço, buscando sempre a excelência pois tenho paixão pelo sucesso. Acredito que minhas habilidades, entusiasmo e paixão me tornam um profissional completo e altamente capacitado para contribuir para o sucesso da empresa.
    
 ### Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assis-berlanda/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assismedeiros/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/assisberlanda)
 
